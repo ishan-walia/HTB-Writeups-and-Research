@@ -205,50 +205,11 @@ sudo apt-get install hping3 -y
 sudo setcap cap_net_raw+ep /usr/sbin/hping3
 ```
 
-⭐ Support Me
-If you like this project:
+### 📺 Subscribe to my YouTube
 
-⭐ Star this repository
 
-🔗 Share with friends
-
-📺 Subscribe to my YouTube
-
-🐦 Follow me on Twitter
-
-📞 Connect with Me
-Platform	Link
-GitHub	github.com/HackWithIshan
-YouTube	youtube.com/c/HackWithIshan
-
-# If you like this tool, give it a star!
-https://github.com/HackWithIshan/AllWindows-DDoS
-📝 Changelog
-Version 3.0 (Latest)
-✅ Added ALL Windows support (7/8/10/11)
-
-✅ Multi-Vector Attack (7 attack types)
-
-✅ Auto port scanning
-
-✅ 5 attack modes
-
-✅ 5 intensity levels
-
-✅ Windows version optimization
-
-✅ Cool hacker-style UI
-
-Version 2.0
-✅ Added UDP flood
-
-✅ Added ICMP flood
-
-Version 1.0
-✅ Basic SYN flood attack
-
-🎯 Final Words
-text
+### 🎯 Final Words
+```
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  💀 Remember: With great power comes great responsibility! │
@@ -258,6 +219,7 @@ text
 │  Happy Hacking! 🔥                                         │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
+```
 Made with ❤️ by HackWithIshan
 
 
