@@ -11,3 +11,14 @@ It can be used for:
 - 🔐 Public & Private Key Cryptography
 - 📜 Certificates
 - 🔑 Password-related cryptographic operations
+
+# Installation
+
+- Install the library using pip:
+```
+pip install cryptography
+```
+Verify the installation:
+```
+python -c "import cryptography; print(cryptography.__version__)"
+```
