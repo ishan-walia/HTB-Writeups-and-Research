@@ -16,3 +16,15 @@ Python provides access to YARA through the yara-python library.
 - 🔎 IOC/pattern detection
 - 🏢 Enterprise file scanning
 - 🧬 Malware family classification
+
+# ⚙️ Installation
+```
+pip install yara-python
+```
+# Verify Installation
+```
+import yara
+
+print(yara.__version__)
+```
+If the installation is successful, Python will display the installed YARA version.
