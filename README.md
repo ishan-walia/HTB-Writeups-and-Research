@@ -71,9 +71,15 @@ HTB-Writeups-and-Research/
 │   ├── ⚙️ System-Automation/       # OS internals, Subprocess, Psutil, Click, Rich
 │   └── ⚔️ Advanced-Security/       # Impacket, Paramiko, Pwntools, Mitmproxy, Pandas
 │
-├── 📂 Labs /                       # Hands-on CTFs and Defensive Operations
-│   ├── 🎯 Challenges/              # Web, Crypto, Reverse, Misc CTF Challenges
-│   └── 🔍 Sherlocks/               # Real-world Incident Response & DFIR Cases
+├── 📂 Labs/                        # Hands-on CTFs, Defensive & Offensive Labs
+│   ├── 🟢 HackTheBox/              # HTB Machines, Challenges & Sherlocks
+│   │   ├── 🎯 Challenges/          # Web, Crypto, Reverse, Misc CTF Challenges
+│   │   ├── 🔍 Sherlocks/           # Real-world Incident Response & DFIR Cases
+│   │   └── 🖥️ Machines/            # Target machine write-ups & exploitation
+│   └── 🔴 TryHackMe/               # THM Practice Rooms & Hands-on Modules
+│       ├── 📦 Rooms/               # Easy, Medium & Hard guided practice rooms
+│       ├── 🌐 Networks/            # Multi-host attack chains and network pivoting
+│       └── 🏆 CTF-Challenges/      # Timed & themed competitive challenges
 │
 ├── 📂 Scripts/                     # Custom Standalone Scripts & Utilities
 │   ├── 📡 WIFI/                    # Windows Wi-Fi password extraction
@@ -106,26 +112,32 @@ A structured, library-by-library breakdown designed to build weaponized tools, a
 
 ---
 
-### 2. 🧪 Labs: Challenges & Sherlocks
+### 2. 🧪 Labs: HackTheBox & TryHackMe
 
-Hands-on exercises from **Hack The Box** and industry CTF platforms covering both Red and Blue operations.
+Hands-on exercises and attack scenarios across **Hack The Box** and **TryHackMe** covering Red Team, Blue Team, and DFIR operations.
 
-#### 🔍 DFIR & Incident Response (Sherlocks)
-Deep forensic investigations solving real-world attack scenarios:
-- **Unit42** – Advanced persistent threat (APT) forensic analysis.
-- **Reaper** – Incident timeline reconstruction and adversary tracing.
-- **ShadowBait** – Deception technology and credential harvesting analysis.
-- **CAMouflage** – Endpoint tampering and persistence mechanism detection.
-- **BFT ($MFT)** – Windows Master File Table NTFS forensic triage.
-- **Fruitzy** – Web application compromise and lateral movement investigation.
+#### 🟢 HackTheBox
+* **🔍 DFIR & Incident Response (Sherlocks):**
+  - **Unit42** – Advanced persistent threat (APT) forensic analysis.
+  - **Reaper** – Incident timeline reconstruction and adversary tracing.
+  - **ShadowBait** – Deception technology and credential harvesting analysis.
+  - **CAMouflage** – Endpoint tampering and persistence mechanism detection.
+  - **BFT ($MFT)** – Windows Master File Table NTFS forensic triage.
+  - **Fruitzy** – Web application compromise and lateral movement investigation.
+* **🎯 CTF Challenges:**
+  - **Spookifier** – Template injection / Web exploitation challenge.
+  - **ReactOOPS** – Client-side and server-side state security bugs.
+  - **Lucky Dice** – PRNG exploitation and logic vulnerabilities.
+  - **OpenSecret** – Cryptographic key leakage and authentication bypass.
+  - **Ether Tag** – Blockchain and token manipulation challenge.
+  - **Espresso & Primed for Action** – Reverse engineering and binary logic analysis.
+* **🖥️ Machines:**
+  - Categorized targets across Easy, Medium, Hard, and Insane difficulties.
 
-#### 🎯 CTF Challenges
-- **Spookifier** – Template injection / Web exploitation challenge.
-- **ReactOOPS** – Client-side and server-side state security bugs.
-- **Lucky Dice** – PRNG exploitation and logic vulnerabilities.
-- **OpenSecret** – Cryptographic key leakage and authentication bypass.
-- **Ether Tag** – Blockchain and token manipulation challenge.
-- **Espresso & Primed for Action** – Reverse engineering and binary logic analysis.
+#### 🔴 TryHackMe
+* **📦 Rooms:** Guided attack vectors categorized by difficulty (Easy, Medium, Hard) focusing on fundamentals, Web OWASP, and Linux/Windows PrivEsc.
+* **🌐 Networks:** Enterprise network simulation, multi-host pivots, and Active Directory domain dominance.
+* **🏆 CTF-Challenges:** Timed jeopardy competitions and flags.
 
 ---
 
