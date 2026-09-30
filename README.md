@@ -151,6 +151,14 @@ Quick execution scripts crafted for post-exploitation, triage, and administrativ
 
 ---
 
+### 4. 📝 Write-ups & Research
+
+Comprehensive lab walkthroughs, vulnerability analyses, and proof-of-concept breakdowns:
+
+* 🎯 **[DevHub Walkthrough](Write-Ups/DevHub/Readme.md):** MCP command execution, Jupyter local token extraction, and OPSMCP root privilege escalation.
+
+---
+
 ## 🛠️ Tech Stack & Security Toolkit
 
 <div align="center">
