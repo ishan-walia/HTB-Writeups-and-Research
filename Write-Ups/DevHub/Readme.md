@@ -426,3 +426,4 @@ The DevHub attack path combined several security weaknesses:
 
 The most important lesson is that **multiple individually avoidable configuration and authorization issues can combine into a complete system compromise**.
 
+<img src="https://github.com/ishan-walia/HTB-Writeups-and-Research/blob/main/Write-Ups/DevHub/Screenshot%202026-10-01%20003001.png">
