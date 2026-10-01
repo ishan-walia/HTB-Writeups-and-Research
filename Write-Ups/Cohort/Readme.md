@@ -312,3 +312,5 @@ cat /root/root.txt
 
 **User Flag:** `[REDACTED]`
 **Root Flag:** `[REDACTED]`
+
+<img src="https://github.com/ishan-walia/HTB-Writeups-and-Research/blob/main/Write-Ups/Cohort/Screenshot%202026-10-01%20213506.png">
