@@ -442,3 +442,4 @@ cat C:\Users\max.palmer\Desktop\root.txt
 * VMware memory snapshots stored on accessible shares are extremely sensitive — they contain cleartext credentials
 * Clock synchronization is critical for Kerberos attacks (`faketime` + `smb2-time` nmap script)
 * Pass-the-Hash with evil-winrm works cleanly against WinRM-enabled Windows hosts
+  <img src="https://github.com/ishan-walia/HTB-Writeups-and-Research/blob/main/Write-Ups/CheckPoint/Screenshot%202026-10-01%20222840.png">
